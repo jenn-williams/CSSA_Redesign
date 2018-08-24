@@ -31,7 +31,7 @@ Keeping with the minmalist mindset, I decided that using small hexagons would be
 
 Now, I wanted to combine these small hexagons with a brain. Many logos use the side view of the brain, so I decided it would be more **innovative** and **creative** to use the top-down view instead. And that is how this logo was born:
 
-![Image](images/cssa_logo.png =250)
+![Image](images/cssa_logo.png)
 
 ***
 
@@ -53,9 +53,9 @@ This event is put on every year by CSSA and it is extremely important for our ad
 ### Event Program
 
 ![Image](images/programcover.png)
-
+***
 ![Image](images/p2.png)
-
+***
 ![Image](images/p3.png)
-
+***
 ![Image](images/p4.png)
